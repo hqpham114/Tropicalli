@@ -1,0 +1,26 @@
+{
+  "name": "tropikal",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqpham114/Tropicalli.git"
+  },
+  "keywords": [
+    "restaurant",
+    "website"
+  ],
+  "author": "Huong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hqpham114/Tropicalli/issues"
+  },
+  "homepage": "https://github.com/hqpham114/Tropicalli#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
