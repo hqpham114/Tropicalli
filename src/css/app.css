@@ -108,6 +108,10 @@ section.grid p{
 
 }
 
+section.gird img{
+    width:100%;
+}
+
 .button{
     display: inline-block;
 color: var(--text-on-dark);
